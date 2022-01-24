@@ -15,7 +15,7 @@ let manager = [];
 let engineer = [];
 //array for intern data
 let intern = [];
-//declare a parent array to house user input for manaer, engineer, and intern class data
+//declare a parent array to house user input for manager, engineer, and intern class data
 let employeeArray = {manager, engineer, intern};
 
 //prompts user for employee data
