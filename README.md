@@ -9,7 +9,7 @@
   * [Tests](#tests)
   
   ## Installation 
-  Clone this repository, npm install/npm install jest, then node index and answer prompt questions.
+  Clone this repository, npm install, then node index and answer prompt questions.
   ## Usage 
   This application is ideal for a quick build for your team of developers.
   ## License 
